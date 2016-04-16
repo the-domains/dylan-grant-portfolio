@@ -1,7 +1,7 @@
 name: dylan-grant-portfolio
 favicon: null
-layout_spectrum: 0.025131070986390114
-typography_spectrum: 0.06956157297827303
+layout_spectrum: 0.50417
+typography_spectrum: 0.18531
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9854931912850589
-  lightness: 0.38384580868296325
-  saturation: 0.8132756473496556
-  rhythmicContrast: 0.23639071849174798
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
