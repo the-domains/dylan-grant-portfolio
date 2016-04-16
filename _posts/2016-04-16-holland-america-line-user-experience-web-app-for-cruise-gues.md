@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Holland America Line user experience web app for cruise guests. Allows guest to see what's going happening on the ship, book excursions and dining reservations, view and update their itinerary, see their spending, and access information about the ship including the ship's official time.\_"
-datePublished: '2016-04-16T18:09:21.042Z'
-dateModified: '2016-04-16T18:00:10.037Z'
+datePublished: '2016-04-16T20:11:12.712Z'
+dateModified: '2016-04-16T18:09:30.492Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-16-holland-america-line-user-experience-web-app-for-cruise-gues.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-holland-america-line-user-experience-web-app-for-cruise-gues.md
-published: true
 url: holland-america-line-user-experience-web-app-for-cruise-gues/index.html
 _type: Article
 
